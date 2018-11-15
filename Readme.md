@@ -1,3 +1,18 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LineChartData.cs](./CS/App_Code/LineChartData.cs) (VB: [LineChartData.vb](./VB/App_Code/LineChartData.vb))
+* [QRCodeData.cs](./CS/App_Code/QRCodeData.cs) (VB: [QRCodeData.vb](./VB/App_Code/QRCodeData.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [LineChartImage.aspx](./CS/LineChartImage.aspx) (VB: [LineChartImage.aspx.vb](./VB/LineChartImage.aspx.vb))
+* [LineChartImage.aspx.cs](./CS/LineChartImage.aspx.cs) (VB: [LineChartImage.aspx.vb](./VB/LineChartImage.aspx.vb))
+* [LineChartTemplate.aspx](./CS/LineChartTemplate.aspx) (VB: [LineChartTemplate.aspx.vb](./VB/LineChartTemplate.aspx.vb))
+* [LineChartTemplate.aspx.cs](./CS/LineChartTemplate.aspx.cs) (VB: [LineChartTemplate.aspx.vb](./VB/LineChartTemplate.aspx.vb))
+* [QRCodeImage.aspx](./CS/QRCodeImage.aspx) (VB: [QRCodeImage.aspx](./VB/QRCodeImage.aspx))
+* [QRCodeImage.aspx.cs](./CS/QRCodeImage.aspx.cs) (VB: [QRCodeImage.aspx](./VB/QRCodeImage.aspx))
+* [QRCodeTemplate.aspx](./CS/QRCodeTemplate.aspx) (VB: [QRCodeTemplate.aspx.vb](./VB/QRCodeTemplate.aspx.vb))
+* [QRCodeTemplate.aspx.cs](./CS/QRCodeTemplate.aspx.cs) (VB: [QRCodeTemplate.aspx.vb](./VB/QRCodeTemplate.aspx.vb))
+<!-- default file list end -->
 # How to display WebChartControl and QRCode in grid cells
 
 
