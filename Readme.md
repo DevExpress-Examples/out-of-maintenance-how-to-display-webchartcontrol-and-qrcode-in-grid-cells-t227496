@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128539587/14.2.6%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T227496)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -19,9 +14,6 @@
 * [QRCodeTemplate.aspx.cs](./CS/QRCodeTemplate.aspx.cs) (VB: [QRCodeTemplate.aspx.vb](./VB/QRCodeTemplate.aspx.vb))
 <!-- default file list end -->
 # How to display WebChartControl and QRCode in grid cells
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t227496/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to display WebChartControl and QRCode in grid cells via two different approaches: <br /> 1. Using <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebGridViewDataColumn_DataItemTemplatetopic">GridViewDataColumn.DataItemTemplate</a> (implementation of the concept <a href="https://www.devexpress.com/Support/Center/Question/Details/K18282">K18282</a>). By utilizing this approach you can customize graphs more precisely.<br /> 2. Using <a href="https://documentation.devexpress.com/#AspNet/clsDevExpressWebGridViewDataBinaryImageColumntopic">GridViewDataBinaryImageColumn</a>. Use this approach if you need ASPxGridView <a href="https://demos.devexpress.com/ASPxGridViewDemos/Exporting/Exporting.aspx">export</a>.<br /><br /><a href="https://www.devexpress.com/Support/Center/Example/Details/T280853">ASPxGridView - How to display BarCode in a grid column</a> (Using DocumentServer)</p>
